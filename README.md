@@ -54,3 +54,7 @@ database name in the package.json file for the npm run dev:node command.
 > npm run dev
 
 This command will start both the nodejs server and the React server in one terminal tab.
+
+
+You can view the final solutin in [this](https://github.com/agile8118/react-infinite-scrolling-final-solution) repository.
+
